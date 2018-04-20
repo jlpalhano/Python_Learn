@@ -1,0 +1,3 @@
+#Ignorando aqruivos começados por .
+.*
+!.gitignore
